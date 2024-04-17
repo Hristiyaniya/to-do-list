@@ -23,7 +23,7 @@ ul {
 ul li {
   cursor: pointer;
   position: relative;
-  padding: 12px 8px 12px 40px;
+  padding: 120px 18px 12px 60px;
   list-style-type: none;
   background: #eee;
   font-size: 18px;
